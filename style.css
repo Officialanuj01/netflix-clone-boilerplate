@@ -1,0 +1,152 @@
+.titleimage{
+    height: 800px;
+    size: cover;
+    background-image: url("assets/Title-Image.png");
+    display: flex;
+    justify-content: space-between;
+}
+.title1{
+    display: flex;
+    justify-content: space-between;
+}
+.title2{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+.button{
+    height: 40px;
+    width: 100px;
+}
+#button2{
+    background: transparent;
+}
+#seeagain{
+    margin-top: 70px;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+#symboldiv{
+    display: flex;
+    
+}
+#nsymbol{
+    height: 40px;
+    width: 20px;
+}
+#show{
+    font-size: 30px;
+    color: white;
+    padding-bottom: 20px;
+}
+#made{
+    font-size: 100px;
+    font-weight: 800;
+    color: white;
+}
+#netflixlogo{
+    height: 20px;
+    width:  60px
+}
+.anchorbar{
+    
+    display: flex;
+    justify-content: space-between;
+    margin: 30px 0px 0px 60px;
+    
+}
+.bg{
+    background: transparent;
+    border: 0px;
+}
+main{
+    background-color: black;
+}
+.imgbackgroundimage{
+    position: absolute;
+    top: 10px;
+    right: 20px;
+    background-color: white;
+    color: white;
+    margin: 30px 60px 0px 60px;
+}
+#owllogo{
+    background-color: transparent;
+}
+#start{
+    font-weight: 900;
+}
+.navanchortag{
+    text-decoration: none;
+    margin: 10px;
+    color: white;
+}
+.imgbackgroundimage{
+    background: transparent;
+    border: 0px;
+    color: white;
+}
+.firstrowpics{
+    display: flex;
+    justify-items: center;
+    margin-bottom: 60px;
+}
+.secondrowpics{
+    display: flex;
+    justify-self: center;
+    margin-bottom: 60px;
+}
+.thirdrowpics{
+    display: flex;
+    margin-bottom: 60px;
+}
+.fourrowpic{
+    display: flex;
+    
+}
+.classmovdivsiz{
+    width: 300px;
+}
+.movie{
+    width: 270px;
+}
+.span{
+    margin-left: 60px;
+    font-weight: 900;
+    color: white;
+}
+footer{
+
+    background-color:  black;
+    
+}
+.credits{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-left: 150px;
+    font-weight: lighter;
+    justify-content: space-between;
+}
+#Hizmet{
+    margin-left: 150px;
+}
+#logonetflix2{
+    height: 60px;
+    width: 30px;
+}
+#copyright{
+    color: white;
+}
+#icons{
+    margin-left: 150px;
+    
+    background-color: black;
+}
+.rankimg{
+    display: flex;
+    background: transparent;
+}
